@@ -12,7 +12,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/sajasxbot">sajas</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,11 +21,8 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
 
-get extra feturs use maalutty v3😍⏬
 
-[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
-  </div>
-    
+
 
 ## Setup
 <div align="center">
