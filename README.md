@@ -12,7 +12,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/sajasxbot">sajas</a> to make it public
+Project created by <a href="https://github. com/sajasxbot" >Sajas</a> to make it public
     <br>
        | © |
         Reserved |
